@@ -1,4 +1,12 @@
-﻿using System;
+﻿//
+/* 
+Author: Paula Marin
+Date: 02/06/2020
+Comments: This C# console application code demonstrates 
+the use of Methods 
+*/
+
+using System;
 
 namespace Methods_Paula
 {
@@ -6,10 +14,10 @@ namespace Methods_Paula
     {
         static void Main(string[] args)
         {
-            // Ask user input their name.
+            // user input 
             Console.Write("Please enter your name:");
 
-            // To handle input errors. 
+            // validate errors
             try
             {
                 // Read input from user.
