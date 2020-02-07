@@ -30,8 +30,6 @@ namespace Methods_Paula
             }
             catch
             {
-                // Display error message if wrong input is entered.
-                Console.WriteLine("You have entered an invalid input!");
             }
         }
 
